@@ -57,7 +57,7 @@
 
 
 ### Mobile View
-![Mobile Screenshot](./assets/screenshot/mobile.png)
+![Mobile Screenshot](./assets/screenshot/mobile2.png)
 
 ## Features
 
@@ -79,9 +79,8 @@
 
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox + CSS Grid)
+- CSS3
 - Tailwind CSS (via CDN)
-- Vanilla JavaScript
 
 ## Credits
 
@@ -102,19 +101,8 @@
    cd Cellcard-Html-tailwind-
    ```
 3. **Open `index.html` in your web browser:**
-   - Double-click the file, or
-   - Use a local server (recommended for better functionality):
-     ```bash
-     # Using Python
-     python -m http.server 8000
-
-     # Using Node.js
-     npx serve .
-
-     # Using PHP
-     php -S localhost:8000
-     ```
-4. **Open your browser and go to** `http://localhost:8000`
+   Run with open with live server
+4. **Open your browser and go to** `http://localhost:5500`
 
 ## Project Structure
 ```
