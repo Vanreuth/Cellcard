@@ -1,7 +1,7 @@
 # Cellcard Landing Page
 
 ## Live Demo
-[View Live Demo on GitHub Pages](https://yourusername.github.io/Cellcard-Html-tailwind-)
+[View Live Demo on GitHub Pages](https://github.com/Vanreuth/Cellcard)
 
 ## Screenshots
 
@@ -48,7 +48,7 @@
 # Cellcard Landing Page
 
 ## Live Demo
-[View Live Demo on GitHub Pages](https://yourusername.github.io/Cellcard-Html-tailwind-)
+[View Live Demo on GitHub Pages](https://github.com/Vanreuth/Cellcard)
 
 ## Screenshots
 
